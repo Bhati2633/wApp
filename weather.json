@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 10.98,
+        "lat": 44.98
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 294.81,
+        "feels_like": 295.28,
+        "temp_min": 294.81,
+        "temp_max": 294.87,
+        "pressure": 1013,
+        "humidity": 86,
+        "sea_level": 1013,
+        "grnd_level": 1011
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.08,
+        "deg": 63,
+        "gust": 1.08
+    },
+    "clouds": {
+        "all": 43
+    },
+    "dt": 1725763828,
+    "sys": {
+        "type": 2,
+        "id": 2086469,
+        "country": "IT",
+        "sunrise": 1725770811,
+        "sunset": 1725817251
+    },
+    "timezone": 7200,
+    "id": 3169656,
+    "name": "Quistello",
+    "cod": 200
+}
